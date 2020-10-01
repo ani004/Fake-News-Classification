@@ -1,3 +1,3 @@
 # Fake-News-Classification
 
-Classify fake news and real news using three machine techniques. We are using tfidf vectorizer to vctorize the newsbody.
+Classify fake news and real news using three machine techniques. We are using tfidf vectorizer to vctorize the newsbody.The problem of the fake news publication is not new and it already has been reported in ancient ages, but it has started having a huge impact especially on social media users. Such false information should be detected as soon as possible to avoid its negative influence on the readers and in some cases on their decisions, e.g., during the election. Therefore, the methods which can effectively detect fake news are the focus of intense research. This work focuses on fake news detection in articles published online and on the basis of extensive research we confirmed that chosen machine learning algorithms can distinguish them from reliable information.
